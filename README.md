@@ -6,16 +6,13 @@ The objective was to transform the available sales data into an interactive busi
 The dashboard provides a consolidated view of key sales and customer-related metrics and helps identify high-performing categories, profitable sub-categories, major customer regions, and monthly sales and profit trends.
 
 🎯 Project Objectives
-Analyze overall Flipkart sales performance.
-Understand sales distribution across different product categories.
-Analyze monthly sales and profit trends.
-Identify the most profitable product sub-categories.
-Understand customer distribution across different categories.
-Analyze customer distribution by state.
-Understand customer payment preferences.
-Analyze geographic distribution of customers/orders.
-Provide interactive filtering using date and city selections.
-Present the analysis through an easy-to-understand Power BI dashboard.
+   1. Analyze overall Flipkart sales performance.
+   2. Understand sales distribution across different product categories.
+   3. Analyze monthly sales and profit trends.
+   4. Identify the most profitable product sub-categories.
+   5. Understand customer distribution across different categories.
+   6. Analyze customer distribution by state.
+
 🛠️ Tools & Technologies
 Microsoft Power BI
 Power Query – Data preparation and transformation
