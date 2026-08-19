@@ -12,6 +12,11 @@ The dashboard provides a consolidated view of key sales and customer-related met
    4. Identify the most profitable product sub-categories.
    5. Understand customer distribution across different categories.
    6. Analyze customer distribution by state.
+   7. Understand customer payment preferences.
+   8. Analyze geographic distribution of customers/orders.
+   9. Provide interactive filtering using date and city selections.
+  10. Present the analysis through an easy-to-understand Power BI dashboard.
+
 
 🛠️ Tools & Technologies
 Microsoft Power BI
